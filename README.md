@@ -1,7 +1,7 @@
 # javaPractice
-A complete repo of all my assigned java practice files. Contains complex data structures, practice with recursion, practice with recursive backtracking, and more.
+A complete repo of all my assigned java practice projects. Contains complex data structures, practice with recursion, practice with recursive backtracking, and more.
 
-The projects represent my progression in learning java in class. 
+These projects represent my progression in learning java in class. 
 
 ## Brief Project Descriptions:
 A more detailed description can be found as a header for each project. 
