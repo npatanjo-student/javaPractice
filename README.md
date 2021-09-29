@@ -1,4 +1,4 @@
-# javaPractice
+# shortJavaProjects
 A complete repo of all my assigned java practice projects. Contains complex data structures, practice with recursion, practice with recursive backtracking, and more.
 
 These projects represent my progression in learning java in class. 
