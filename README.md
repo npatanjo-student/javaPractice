@@ -14,7 +14,7 @@ This project contains examples of stacks and queues. There are examples of stack
 This project also contains a node class. 
 
 ### PA7-Generics
-This is a modified version of PA-6StacksQueues. It is modified to include the use of generics. 
+This is a modified version of PA6-StacksQueues. It is modified to include the use of generics. 
 
 ### PA8-HashMap
 This is my own solution for a HashMap data structure. 
